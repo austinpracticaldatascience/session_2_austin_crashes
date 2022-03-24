@@ -1,0 +1,3 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/sdcastillo/Texas_car_crashes.git
