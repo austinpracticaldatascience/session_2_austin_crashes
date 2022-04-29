@@ -1,3 +1,6 @@
 [submodule "data"]
 	path = data
 	url = https://github.com/sdcastillo/Texas_car_crashes.git
+[submodule "roads_data"]
+	path = session_2_osm_roads_data
+	url = https://github.com/austinpracticaldatascience/session_2_osm_roads_data.git
