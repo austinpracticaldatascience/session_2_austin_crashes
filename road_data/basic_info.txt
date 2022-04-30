@@ -1,6 +1,5 @@
 Downloaded from BBBikes.org.
 I chose 'Austin, Tx' and downloaded it. Nothing fancy.
 
-I have yet to try and parse this file, 
-But I am uploading it in case somebody wants the data locally.
-It appears to have all the road data inside in many file formats. 
+I am going to try and use the Overpass API instead of these shape files, 
+so these files may be deleted before they see any real use.
