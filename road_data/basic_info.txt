@@ -1,0 +1,6 @@
+Downloaded from BBBikes.org.
+I chose 'Austin, Tx' and downloaded it. Nothing fancy.
+
+I have yet to try and parse this file, 
+But I am uploading it in case somebody wants the data locally.
+It appears to have all the road data inside in many file formats. 
